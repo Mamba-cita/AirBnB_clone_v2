@@ -9,7 +9,7 @@ db = MySQLdb.connect(
     host='localhost',
     port=3306,
     user='root',
-    passwd='my_secure_password'
+    passwd='my_secure_password',
 )
 
 -- Create a cursor object to execute queries

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""This is the file storage class for AirBnB"""
 import json
 from models.base_model import BaseModel
 from models.user import User
@@ -57,22 +59,13 @@ class FileStorage:
             json.dump(my_dict, f)
 
     def reload(self):
-        """Deserialize JSON file objects"""
+        """path to JSON file path
+        """
         try:
             with open(self.__file_path, 'r', encoding="UTF-8") as f:
-                json_data = json.load(f)
-                for key, value in json_data.items():
-                    class_name = value.get("__class__")
-                    if class_name:
-                        obj_class = globals().get(class_name)
-                        if obj_class:
-                            del value["__class__"]
-                            obj = obj_class(**value)
-                            self.__objects[key] = obj
-                        else:
-                            print(f"Class '{class_name}' not found.")
-                    else:
-                        print("Missing '__class__' attribute in JSON data.")
+                for key, value in (json.load(f)).items():
+                    value = eval(value["__class__"])(**value)
+                    self.__objects[key] = value
         except FileNotFoundError:
             pass
 

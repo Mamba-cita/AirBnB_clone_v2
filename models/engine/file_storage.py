@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-"""This is the file storage class for AirBnB"""
 import json
 from models.base_model import BaseModel
 from models.user import User
@@ -8,7 +6,6 @@ from models.city import City
 from models.amenity import Amenity
 from models.place import Place
 from models.review import Review
-
 
 class FileStorage:
     """This class serializes instances to a JSON file and
@@ -22,12 +19,11 @@ class FileStorage:
         Args:
             obj: given object
         """
-        if not obj:
-            return
-        key = "{}.{}".format(type(obj).__name__, obj.id)
-        if key in self.__objects:
-            del self.__objects[key]
-            self.save()
+        if obj is not None:
+            key = "{}.{}".format(type(obj).__name__, obj.id)
+            if key in self.__objects:
+                del self.__objects[key]
+                self.save()
 
     def all(self, cls=None):
         """returns a dictionary
@@ -36,22 +32,20 @@ class FileStorage:
         Return:
             returns a dictionary of __object
         """
-        if not cls:
+        if cls is None:
             return self.__objects
-        return {k: v for k, v in self.__objects.items() if type(v) == cls}
+        return {k: v for k, v in self.__objects.items() if isinstance(v, cls)}
 
     def new(self, obj):
         """sets __object to given obj
         Args:
             obj: given object
         """
-        if obj:
-            key = "{}.{}".format(type(obj).__name__, obj.id)
-            self.__objects[key] = obj
+        key = "{}.{}".format(type(obj).__name__, obj.id)
+        self.__objects[key] = obj
 
     def save(self):
-        """path to JSON file path
-        """
+        """Serialize __objects to JSON file"""
         my_dict = {}
         for key, value in self.__objects.items():
             my_dict[key] = value.to_dict()
@@ -59,30 +53,24 @@ class FileStorage:
             json.dump(my_dict, f)
 
     def reload(self):
-        """Loads storage dictionary from file"""
-        from models.base_model import BaseModel
-        from models.user import User
-        from models.place import Place
-        from models.state import State
-        from models.city import City
-        from models.amenity import Amenity
-        from models.review import Review
-
-        classes = {
-                    'BaseModel': BaseModel, 'User': User, 'Place': Place,
-                    'State': State, 'City': City, 'Amenity': Amenity,
-                    'Review': Review
-                  }
+        """Deserialize JSON file objects"""
         try:
-            temp = {}
-            with open(FileStorage.__file_path, 'r') as f:
-                temp = json.load(f)
-                for key, val in temp.items():
-                    self.all()[key] = classes[val['__class__']](**val)
+            with open(self.__file_path, 'r', encoding="UTF-8") as f:
+                json_data = json.load(f)
+                for key, value in json_data.items():
+                    class_name = value.get("__class__")
+                    if class_name:
+                        obj_class = globals().get(class_name)
+                        if obj_class:
+                            obj = obj_class(**value)
+                            self.__objects[key] = obj
+                        else:
+                            print(f"Class '{class_name}' not found.")
+                    else:
+                        print("Missing '__class__' attribute in JSON data.")
         except FileNotFoundError:
             pass
 
-
     def close(self):
-        """deserialize JSON file objects"""
+        """Close the storage"""
         self.reload()

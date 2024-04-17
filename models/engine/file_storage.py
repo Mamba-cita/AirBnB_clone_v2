@@ -7,6 +7,7 @@ from models.amenity import Amenity
 from models.place import Place
 from models.review import Review
 
+
 class FileStorage:
     """This class serializes instances to a JSON file and
     deserializes JSON file to instances
@@ -19,11 +20,12 @@ class FileStorage:
         Args:
             obj: given object
         """
-        if obj is not None:
-            key = "{}.{}".format(type(obj).__name__, obj.id)
-            if key in self.__objects:
-                del self.__objects[key]
-                self.save()
+        if not obj:
+            return
+        key = "{}.{}".format(type(obj).__name__, obj.id)
+        if key in self.__objects:
+            del self.__objects[key]
+            self.save()
 
     def all(self, cls=None):
         """returns a dictionary
@@ -32,20 +34,22 @@ class FileStorage:
         Return:
             returns a dictionary of __object
         """
-        if cls is None:
+        if not cls:
             return self.__objects
-        return {k: v for k, v in self.__objects.items() if isinstance(v, cls)}
+        return {k: v for k, v in self.__objects.items() if type(v) == cls}
 
     def new(self, obj):
         """sets __object to given obj
         Args:
             obj: given object
         """
-        key = "{}.{}".format(type(obj).__name__, obj.id)
-        self.__objects[key] = obj
+        if obj:
+            key = "{}.{}".format(type(obj).__name__, obj.id)
+            self.__objects[key] = obj
 
     def save(self):
-        """Serialize __objects to JSON file"""
+        """path to JSON file path
+        """
         my_dict = {}
         for key, value in self.__objects.items():
             my_dict[key] = value.to_dict()
@@ -62,6 +66,7 @@ class FileStorage:
                     if class_name:
                         obj_class = globals().get(class_name)
                         if obj_class:
+                            del value["__class__"]
                             obj = obj_class(**value)
                             self.__objects[key] = obj
                         else:
@@ -72,5 +77,5 @@ class FileStorage:
             pass
 
     def close(self):
-        """Close the storage"""
+        """deserialize JSON file objects"""
         self.reload()

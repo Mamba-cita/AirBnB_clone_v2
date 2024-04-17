@@ -5,6 +5,7 @@ from sqlalchemy.orm import relationship, backref
 from sqlalchemy import Column, String
 from os import getenv
 
+
 class State(BaseModel, Base):
     """This is the class definition for State.
 

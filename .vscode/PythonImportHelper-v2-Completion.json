@@ -1,0 +1,2127 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
+        "isExtraImport": true,
+        "detail": "models.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
+        "isExtraImport": true,
+        "detail": "models.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
+        "isExtraImport": true,
+        "detail": "models.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models.state",
+        "description": "models.state",
+        "isExtraImport": true,
+        "detail": "models.state",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "models.city",
+        "description": "models.city",
+        "isExtraImport": true,
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "importPath": "models.amenity",
+        "description": "models.amenity",
+        "isExtraImport": true,
+        "detail": "models.amenity",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "importPath": "models.amenity",
+        "description": "models.amenity",
+        "isExtraImport": true,
+        "detail": "models.amenity",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "importPath": "models.amenity",
+        "description": "models.amenity",
+        "isExtraImport": true,
+        "detail": "models.amenity",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models.place",
+        "description": "models.place",
+        "isExtraImport": true,
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "models.review",
+        "description": "models.review",
+        "isExtraImport": true,
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "backref",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "backref",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "backref",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "isExtraImport": true,
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "HBNBCommand",
+        "importPath": "console",
+        "description": "console",
+        "isExtraImport": true,
+        "detail": "console",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "importPath": "models.engine.file_storage",
+        "description": "models.engine.file_storage",
+        "isExtraImport": true,
+        "detail": "models.engine.file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "importPath": "models.engine.file_storage",
+        "description": "models.engine.file_storage",
+        "isExtraImport": true,
+        "detail": "models.engine.file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "put",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "local",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "put",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "isdir",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "cmd",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cmd",
+        "description": "cmd",
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "shlex",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shlex",
+        "description": "shlex",
+        "detail": "shlex",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "DBStorage",
+        "kind": 6,
+        "importPath": "models.engine.db_storage",
+        "description": "models.engine.db_storage",
+        "peekOfCode": "class DBStorage():\n    \"\"\"The class for database storage.\"\"\"\n    __engine = None\n    __session = None\n    def __init__(self):\n        \"\"\"Initializes storage\"\"\"\n        from models.base_model import Base\n        self.__engine = create_engine(\n            'mysql+mysqldb://{}:{}@{}:3306/{}'\n            .format(getenv(\"HBNB_MYSQL_USER\"),",
+        "detail": "models.engine.db_storage",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "kind": 6,
+        "importPath": "models.engine.file_storage",
+        "description": "models.engine.file_storage",
+        "peekOfCode": "class FileStorage:\n    \"\"\"This class serializes instances to a JSON file and\n    deserializes JSON file to instances\n    \"\"\"\n    __file_path = \"file.json\"\n    __objects = {}\n    def delete(self, obj=None):\n        \"\"\"deletes obj from __objects if it's inside\n        Args:\n            obj: given object",
+        "detail": "models.engine.file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "Amenity",
+        "kind": 6,
+        "importPath": "models.amenity",
+        "description": "models.amenity",
+        "peekOfCode": "class Amenity(BaseModel, Base):\n    __tablename__ = 'amenities'\n    name = Column(String(128), nullable=False)\n    place_amenities = relationship(\"Place\", secondary=\"place_amenity\", viewonly=False)",
+        "detail": "models.amenity",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "peekOfCode": "class BaseModel:\n    \"\"\"This class defines all shared attributes and methods applicable to other classes.\n    \"\"\"\n    id = Column(String(60), nullable=False, primary_key=True)\n    created_at = Column(DateTime, default=datetime.utcnow, nullable=False)\n    updated_at = Column(DateTime, default=datetime.utcnow, nullable=False)\n    def __init__(self, *args, **kwargs):\n        \"\"\"Instantiation of the base model class.\n        Parameters:\n            - args: not utilized",
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "peekOfCode": "Base = declarative_base()\nclass BaseModel:\n    \"\"\"This class defines all shared attributes and methods applicable to other classes.\n    \"\"\"\n    id = Column(String(60), nullable=False, primary_key=True)\n    created_at = Column(DateTime, default=datetime.utcnow, nullable=False)\n    updated_at = Column(DateTime, default=datetime.utcnow, nullable=False)\n    def __init__(self, *args, **kwargs):\n        \"\"\"Instantiation of the base model class.\n        Parameters:",
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "kind": 6,
+        "importPath": "models.city",
+        "description": "models.city",
+        "peekOfCode": "class City(BaseModel, Base):\n    \"\"\"This is the class definition for City.\nAttributes:\n- state_id: The state ID\n- name: Input name\n    \"\"\"\n    __tablename__ = \"cities\"\n    name = Column(String(128), nullable=False)\n    state_id = Column(String(60),\n                      ForeignKey(\"states.id\", ondelete=\"CASCADE\"),",
+        "detail": "models.city",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "kind": 6,
+        "importPath": "models.place",
+        "description": "models.place",
+        "peekOfCode": "class Place(BaseModel, Base):\n    \"\"\" A place to stay \"\"\"\n    __tablename__ = 'places'\n    city_id = Column(String(60), ForeignKey('cities.id'), nullable=False)\n    user_id = Column(String(60), ForeignKey('users.id'), nullable=False)\n    name = Column(String(128), nullable=False)\n    description = Column(String(1024), nullable=True)\n    number_rooms = Column(Integer, default=0, nullable=False)\n    number_bathrooms = Column(Integer, default=0, nullable=False)\n    max_guest = Column(Integer, default=0, nullable=False)",
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "place_amenity",
+        "kind": 5,
+        "importPath": "models.place",
+        "description": "models.place",
+        "peekOfCode": "place_amenity = Table('place_amenity', Base.metadata,\n        Column('place_id', String(60), ForeignKey('places.id'), primary_key=True, nullable=False),\n        Column('amenity_id', String(60), ForeignKey('amenities.id'), primary_key=True, nullable=False)\n)\nclass Place(BaseModel, Base):\n    \"\"\" A place to stay \"\"\"\n    __tablename__ = 'places'\n    city_id = Column(String(60), ForeignKey('cities.id'), nullable=False)\n    user_id = Column(String(60), ForeignKey('users.id'), nullable=False)\n    name = Column(String(128), nullable=False)",
+        "detail": "models.place",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "models.review",
+        "description": "models.review",
+        "peekOfCode": "class Review(BaseModel, Base):\n    \"\"\" Review classto store review information \"\"\"\n    __tablename__ = 'reviews'\n    text = Column(String(1024), nullable=False)\n    place_id = Column(String(60), ForeignKey('places.id'), nullable=False)\n    user_id = Column(String(60), ForeignKey('users.id'), nullable=False)",
+        "detail": "models.review",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "models.state",
+        "description": "models.state",
+        "peekOfCode": "class State(BaseModel, Base):\n    \"\"\"This is the class definition for State.\nAttributes:\n- name: Input name\n    \"\"\"\n    __tablename__ = \"states\"\n    name = Column(String(128), nullable=False)\n    cities = relationship(\n        \"City\",\n        cascade=\"all,delete,delete-orphan\",",
+        "detail": "models.state",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class User(BaseModel, Base):\n    \"\"\"This class defines a user by various attributes\"\"\"\n    __tablename__ = 'users'\n    email = Column(String(128), nullable=False)\n    password = Column(String(128), nullable=False)\n    first_name = Column(String(128), nullable=True)\n    last_name = Column(String(128), nullable=True)\n    places = relationship(\"Place\",\n            cascade=\"all, delete\",\n            backref=\"user\")",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "test_fileStorage",
+        "kind": 6,
+        "importPath": "tests.test_models.test_engine.test_file_storage",
+        "description": "tests.test_models.test_engine.test_file_storage",
+        "peekOfCode": "class test_fileStorage(unittest.TestCase):\n    \"\"\" Class to test the file storage method \"\"\"\n    def setUp(self):\n        \"\"\" Set up test environment \"\"\"\n        del_list = []\n        for key in storage._FileStorage__objects.keys():\n            del_list.append(key)\n        for key in del_list:\n            del storage._FileStorage__objects[key]\n    def tearDown(self):",
+        "detail": "tests.test_models.test_engine.test_file_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_Amenity",
+        "kind": 6,
+        "importPath": "tests.test_models.test_amenity",
+        "description": "tests.test_models.test_amenity",
+        "peekOfCode": "class test_Amenity(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"Amenity\"\n        self.value = Amenity\n    def test_name2(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_amenity",
+        "documentation": {}
+    },
+    {
+        "label": "test_basemodel",
+        "kind": 6,
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "peekOfCode": "class test_basemodel(unittest.TestCase):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = 'BaseModel'\n        self.value = BaseModel\n    def setUp(self):\n        \"\"\" \"\"\"\n        pass",
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_City",
+        "kind": 6,
+        "importPath": "tests.test_models.test_city",
+        "description": "tests.test_models.test_city",
+        "peekOfCode": "class test_City(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"City\"\n        self.value = City\n    def test_state_id(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_city",
+        "documentation": {}
+    },
+    {
+        "label": "test_Place",
+        "kind": 6,
+        "importPath": "tests.test_models.test_place",
+        "description": "tests.test_models.test_place",
+        "peekOfCode": "class test_Place(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"Place\"\n        self.value = Place\n    def test_city_id(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_place",
+        "documentation": {}
+    },
+    {
+        "label": "test_review",
+        "kind": 6,
+        "importPath": "tests.test_models.test_review",
+        "description": "tests.test_models.test_review",
+        "peekOfCode": "class test_review(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"Review\"\n        self.value = Review\n    def test_place_id(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_review",
+        "documentation": {}
+    },
+    {
+        "label": "test_state",
+        "kind": 6,
+        "importPath": "tests.test_models.test_state",
+        "description": "tests.test_models.test_state",
+        "peekOfCode": "class test_state(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"State\"\n        self.value = State\n    def test_name3(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_state",
+        "documentation": {}
+    },
+    {
+        "label": "test_User",
+        "kind": 6,
+        "importPath": "tests.test_models.test_user",
+        "description": "tests.test_models.test_user",
+        "peekOfCode": "class test_User(test_basemodel):\n    \"\"\" \"\"\"\n    def __init__(self, *args, **kwargs):\n        \"\"\" \"\"\"\n        super().__init__(*args, **kwargs)\n        self.name = \"User\"\n        self.value = User\n    def test_first_name(self):\n        \"\"\" \"\"\"\n        new = self.value()",
+        "detail": "tests.test_models.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "TestHBNBCommand",
+        "kind": 6,
+        "importPath": "tests.test_console",
+        "description": "tests.test_console",
+        "peekOfCode": "class TestHBNBCommand(unittest.TestCase):\n    \"\"\"Unittests for testing the HBNB command interpreter.\"\"\"\n    @classmethod\n    def setUpClass(cls):\n        \"\"\"HBNBCommand testing setup.\n        Temporarily rename any existing file.json.\n        Reset FileStorage objects dictionary.\n        Create an instance of the command interpreter.\n        \"\"\"\n        try:",
+        "detail": "tests.test_console",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.0-hello_route",
+        "description": "web_flask.0-hello_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.0-hello_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.0-hello_route",
+        "description": "web_flask.0-hello_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.0-hello_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "kind": 2,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "def close_session(cls):\n    \"\"\"Closes session\"\"\"\n    storage.close()\n@app.route('/hbnb_filters', strict_slashes=False)\ndef states_state(id=None):\n    \"\"\"displays a HTML page like 6-index.html\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)\n    return render_template('10-hbnb_filters.html', **locals())\nif __name__ == '__main__':",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "states_state",
+        "kind": 2,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "def states_state(id=None):\n    \"\"\"displays a HTML page like 6-index.html\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)\n    return render_template('10-hbnb_filters.html', **locals())\nif __name__ == '__main__':\n    storage.reload()\n    app.run(\"0.0.0.0\", 5000)",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "app = Flask(__name__)\n@app.teardown_appcontext\ndef close_session(cls):\n    \"\"\"Closes session\"\"\"\n    storage.close()\n@app.route('/hbnb_filters', strict_slashes=False)\ndef states_state(id=None):\n    \"\"\"displays a HTML page like 6-index.html\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "kind": 2,
+        "importPath": "web_flask.100-hbnb",
+        "description": "web_flask.100-hbnb",
+        "peekOfCode": "def close_session(cls):\n    \"\"\"Closes session\"\"\"\n    storage.close()\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb(id=None):\n    \"\"\"displays a HTML page like 8-index.html on /hbnb\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)\n    places = storage.all(Place)\n    return render_template('100-hbnb.html', **locals())",
+        "detail": "web_flask.100-hbnb",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.100-hbnb",
+        "description": "web_flask.100-hbnb",
+        "peekOfCode": "def hbnb(id=None):\n    \"\"\"displays a HTML page like 8-index.html on /hbnb\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)\n    places = storage.all(Place)\n    return render_template('100-hbnb.html', **locals())\nif __name__ == '__main__':\n    storage.reload()\n    app.run(\"0.0.0.0\", 5000)",
+        "detail": "web_flask.100-hbnb",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.100-hbnb",
+        "description": "web_flask.100-hbnb",
+        "peekOfCode": "app = Flask(__name__)\n@app.teardown_appcontext\ndef close_session(cls):\n    \"\"\"Closes session\"\"\"\n    storage.close()\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb(id=None):\n    \"\"\"displays a HTML page like 8-index.html on /hbnb\"\"\"\n    states = storage.all(State)\n    amenities = storage.all(Amenity)",
+        "detail": "web_flask.100-hbnb",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "imanumber",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "imanumber",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "numbersandtemplates",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "hello_hbnb",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def hello_hbnb():\n    \"\"\"\n    Returns a string\n    \"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"\n    Returns a string\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def hbnb():\n    \"\"\"\n    Returns a string\n    \"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef c_text(text):\n    \"\"\"\n    Returns C followed by the value of the text variable\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "c_text",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def c_text(text):\n    \"\"\"\n    Returns C followed by the value of the text variable\n    \"\"\"\n    return 'C {}'.format(text.replace('_', ' '))\n@app.route('/python/', defaults={'text': 'is cool'}, strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef python_text(text):\n    \"\"\"\n    displays \"Python\" followed by a text",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "python_text",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def python_text(text):\n    \"\"\"\n    displays \"Python\" followed by a text\n    \"\"\"\n    return 'Python {}'.format(text.replace('_', ' '))\n@app.route('/number/<int:n>', strict_slashes=False)\ndef number(n):\n    \"\"\"\n    Displays \"n is a number\" only if n is an interger\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def number(n):\n    \"\"\"\n    Displays \"n is a number\" only if n is an interger\n    \"\"\"\n    return '{} is a number'.format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef number_template(n):\n    \"\"\"\n    Displays a HTML page only if n is an integer\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "number_template",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def number_template(n):\n    \"\"\"\n    Displays a HTML page only if n is an integer\n    \"\"\"\n    return render_template('5-number.html', n=n)\n@app.route('/number_odd_or_even/<int:n>', strict_slashes=False)\ndef number_odd_or_even(n):\n    \"\"\"\n    displays a HTML epage only if n is an integer\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "number_odd_or_even",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def number_odd_or_even(n):\n    \"\"\"\n    displays a HTML epage only if n is an integer\n    \"\"\"\n    return render_template('6-number_odd_or_even.html', n=n)\nif __name__ == '__main__':\n    \"\"\"\n    Ensures that the module is not executable when  imported\n    \"\"\"\n    app.run(host='0.0.0.0', port=5000)",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef hello_hbnb():\n    \"\"\"\n    Returns a string\n    \"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "states_list",
+        "kind": 2,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "def states_list():\n    \"\"\"display a HTML page with the states listed in alphabetical order\"\"\"\n    states = sorted(list(storage.all(\"State\").values()), key=lambda x: x.name)\n    return render_template('7-states_list.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/states_list', strict_slashes=False)\ndef states_list():\n    \"\"\"display a HTML page with the states listed in alphabetical order\"\"\"\n    states = sorted(list(storage.all(\"State\").values()), key=lambda x: x.name)\n    return render_template('7-states_list.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "cities_by_states",
+        "kind": 2,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "def cities_by_states():\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\").values()\n    return render_template('8-cities_by_states.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/cities_by_states', strict_slashes=False)\ndef cities_by_states():\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\").values()\n    return render_template('8-cities_by_states.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "states",
+        "kind": 2,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "def states(state_id=None):\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\")\n    if state_id is not None:\n        state_id = 'State.' + state_id\n    return render_template('9-states.html', states=states, state_id=state_id)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/states', strict_slashes=False)\n@app.route('/states/<state_id>', strict_slashes=False)\ndef states(state_id=None):\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\")\n    if state_id is not None:\n        state_id = 'State.' + state_id\n    return render_template('9-states.html', states=states, state_id=state_id)\n@app.teardown_appcontext",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "do_pack",
+        "kind": 2,
+        "importPath": "1-pack_web_static",
+        "description": "1-pack_web_static",
+        "peekOfCode": "def do_pack():\n    \"\"\"\n    making an archive on web_static folder\n    \"\"\"\n    time = datetime.now()\n    archive = 'web_static_' + time.strftime(\"%Y%m%d%H%M%S\") + '.' + 'tgz'\n    local('mkdir -p versions')\n    create = local('tar -cvzf versions/{} web_static'.format(archive))\n    if create is not None:\n        return archive",
+        "detail": "1-pack_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_clean",
+        "kind": 2,
+        "importPath": "100-clean_web_static",
+        "description": "100-clean_web_static",
+        "peekOfCode": "def do_clean(number=0):\n    \"\"\"Delete out-of-date archives.\n    Args:\n        number (int): The number of archives to keep.\n    If number is 0 or 1, keeps only the most recent archive. If\n    number is 2, keeps the most and second-most recent archives,\n    etc.\n    \"\"\"\n    number = 1 if int(number) == 0 else int(number)\n    archives = sorted(os.listdir(\"versions\"))",
+        "detail": "100-clean_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "env.hosts",
+        "kind": 5,
+        "importPath": "100-clean_web_static",
+        "description": "100-clean_web_static",
+        "peekOfCode": "env.hosts = ['35.174.200.59', '34.202.157.183']\ndef do_clean(number=0):\n    \"\"\"Delete out-of-date archives.\n    Args:\n        number (int): The number of archives to keep.\n    If number is 0 or 1, keeps only the most recent archive. If\n    number is 2, keeps the most and second-most recent archives,\n    etc.\n    \"\"\"\n    number = 1 if int(number) == 0 else int(number)",
+        "detail": "100-clean_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_deploy",
+        "kind": 2,
+        "importPath": "2-do_deploy_web_static",
+        "description": "2-do_deploy_web_static",
+        "peekOfCode": "def do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')\n        run('mkdir -p {}{}/'.format(path, no_ext))",
+        "detail": "2-do_deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "env.hosts",
+        "kind": 5,
+        "importPath": "2-do_deploy_web_static",
+        "description": "2-do_deploy_web_static",
+        "peekOfCode": "env.hosts = ['35.174.200.59', '34.202.157.183']\ndef do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')",
+        "detail": "2-do_deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_pack",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except:",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_deploy",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')\n        run('mkdir -p {}{}/'.format(path, no_ext))",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "deploy",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def deploy():\n    \"\"\"creates and distributes an archive to the web servers\"\"\"\n    archive_path = do_pack()\n    if archive_path is None:\n        return False\n    return do_deploy(archive_path)i",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "env.hosts",
+        "kind": 5,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "env.hosts = ['35.174.200.59', '34.202.157.183']\ndef do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "HBNBCommand",
+        "kind": 6,
+        "importPath": "console",
+        "description": "console",
+        "peekOfCode": "class HBNBCommand(cmd.Cmd):\n    \"\"\"\n    HBNBCommand console class\n    \"\"\"\n    prompt = \"(hbnb) \"\n    valid_classes = [\"BaseModel\", \"User\", \"Amenity\",\n                     \"Place\", \"Review\", \"State\", \"City\"]\n    def emptyline(self):\n        \"\"\"\n        Do nothing when an empty line is entered.",
+        "detail": "console",
+        "documentation": {}
+    },
+    {
+        "label": "split_curly_braces",
+        "kind": 2,
+        "importPath": "console",
+        "description": "console",
+        "peekOfCode": "def split_curly_braces(e_arg):\n    \"\"\"\n    Splits the curly braces for the update method\n    \"\"\"\n    curly_braces = re.search(r\"\\{(.*?)\\}\", e_arg)\n    if curly_braces:\n        id_with_comma = shlex.split(e_arg[:curly_braces.span()[0]])\n        id = [i.strip(\",\") for i in id_with_comma][0]\n        str_data = curly_braces.group(1)\n        try:",
+        "detail": "console",
+        "documentation": {}
+    },
+    {
+        "label": "fs",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "fs = FileStorage()\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])\n# Create a new State\nnew_state = State()\nnew_state.name = \"California\"\nfs.new(new_state)",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "all_states",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "all_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])\n# Create a new State\nnew_state = State()\nnew_state.name = \"California\"\nfs.new(new_state)\nfs.save()\nprint(\"New State: {}\".format(new_state))",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "new_state",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "new_state = State()\nnew_state.name = \"California\"\nfs.new(new_state)\nfs.save()\nprint(\"New State: {}\".format(new_state))\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "new_state.name",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "new_state.name = \"California\"\nfs.new(new_state)\nfs.save()\nprint(\"New State: {}\".format(new_state))\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])\n# Create another State",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "all_states",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "all_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])\n# Create another State\nanother_state = State()\nanother_state.name = \"Nevada\"\nfs.new(another_state)\nfs.save()\nprint(\"Another State: {}\".format(another_state))",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "another_state",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "another_state = State()\nanother_state.name = \"Nevada\"\nfs.new(another_state)\nfs.save()\nprint(\"Another State: {}\".format(another_state))\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])        ",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "another_state.name",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "another_state.name = \"Nevada\"\nfs.new(another_state)\nfs.save()\nprint(\"Another State: {}\".format(another_state))\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])        \n# Delete the new State",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "all_states",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "all_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])        \n# Delete the new State\nfs.delete(new_state)\n# All States\nall_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "all_states",
+        "kind": 5,
+        "importPath": "main_delete",
+        "description": "main_delete",
+        "peekOfCode": "all_states = fs.all(State)\nprint(\"All States: {}\".format(len(all_states.keys())))\nfor state_key in all_states.keys():\n    print(all_states[state_key])",
+        "detail": "main_delete",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "state = State(name=\"California\")\nstate.save()\n# creation of a City\ncity = City(state_id=state.id, name=\"San Francisco\")\ncity.save()\n# creation of a User\nuser = User(email=\"john@snow.com\", password=\"johnpwd\")\nuser.save()\n# creation of 2 Places\nplace_1 = Place(user_id=user.id, city_id=city.id, name=\"House 1\")",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "city",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "city = City(state_id=state.id, name=\"San Francisco\")\ncity.save()\n# creation of a User\nuser = User(email=\"john@snow.com\", password=\"johnpwd\")\nuser.save()\n# creation of 2 Places\nplace_1 = Place(user_id=user.id, city_id=city.id, name=\"House 1\")\nplace_1.save()\nplace_2 = Place(user_id=user.id, city_id=city.id, name=\"House 2\")\nplace_2.save()",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "user = User(email=\"john@snow.com\", password=\"johnpwd\")\nuser.save()\n# creation of 2 Places\nplace_1 = Place(user_id=user.id, city_id=city.id, name=\"House 1\")\nplace_1.save()\nplace_2 = Place(user_id=user.id, city_id=city.id, name=\"House 2\")\nplace_2.save()\n# creation of 3 various Amenity\namenity_1 = Amenity(name=\"Wifi\")\namenity_1.save()",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "place_1",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "place_1 = Place(user_id=user.id, city_id=city.id, name=\"House 1\")\nplace_1.save()\nplace_2 = Place(user_id=user.id, city_id=city.id, name=\"House 2\")\nplace_2.save()\n# creation of 3 various Amenity\namenity_1 = Amenity(name=\"Wifi\")\namenity_1.save()\namenity_2 = Amenity(name=\"Cable\")\namenity_2.save()\namenity_3 = Amenity(name=\"Oven\")",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "place_2",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "place_2 = Place(user_id=user.id, city_id=city.id, name=\"House 2\")\nplace_2.save()\n# creation of 3 various Amenity\namenity_1 = Amenity(name=\"Wifi\")\namenity_1.save()\namenity_2 = Amenity(name=\"Cable\")\namenity_2.save()\namenity_3 = Amenity(name=\"Oven\")\namenity_3.save()\n# link place_1 with 2 amenities",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "amenity_1",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "amenity_1 = Amenity(name=\"Wifi\")\namenity_1.save()\namenity_2 = Amenity(name=\"Cable\")\namenity_2.save()\namenity_3 = Amenity(name=\"Oven\")\namenity_3.save()\n# link place_1 with 2 amenities\nplace_1.amenities.append(amenity_1)\nplace_1.amenities.append(amenity_2)\n# link place_2 with 3 amenities",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "amenity_2",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "amenity_2 = Amenity(name=\"Cable\")\namenity_2.save()\namenity_3 = Amenity(name=\"Oven\")\namenity_3.save()\n# link place_1 with 2 amenities\nplace_1.amenities.append(amenity_1)\nplace_1.amenities.append(amenity_2)\n# link place_2 with 3 amenities\nplace_2.amenities.append(amenity_1)\nplace_2.amenities.append(amenity_2)",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    },
+    {
+        "label": "amenity_3",
+        "kind": 5,
+        "importPath": "main_place_amenities",
+        "description": "main_place_amenities",
+        "peekOfCode": "amenity_3 = Amenity(name=\"Oven\")\namenity_3.save()\n# link place_1 with 2 amenities\nplace_1.amenities.append(amenity_1)\nplace_1.amenities.append(amenity_2)\n# link place_2 with 3 amenities\nplace_2.amenities.append(amenity_1)\nplace_2.amenities.append(amenity_2)\nplace_2.amenities.append(amenity_3)\nstorage.save()",
+        "detail": "main_place_amenities",
+        "documentation": {}
+    }
+]
